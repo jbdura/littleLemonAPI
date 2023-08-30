@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     "corsheaders",
 
     #Created apps
+    'restaurant',
 ]
 
 MIDDLEWARE = [
